@@ -6,8 +6,8 @@
 
 ## 📦 Stack Tecnológico
 
-* **Frontend**: Angular 16
-* **Backend**: NestJS 10, TypeORM
+* **Frontend**: Angular 19
+* **Backend**: NestJS 11, TypeORM
 * **Banco de Dados**: PostgreSQL
 * **Containerização**: Docker & Docker Compose
 * **APIs**: REST e GraphQL (Apollo Server)
@@ -56,7 +56,7 @@
 
 ## 🔧 Requisitos
 
-* Node.js v18+
+* Node.js v20+
 * Docker & Docker Compose
 * Git
 
